@@ -21,7 +21,8 @@ AI와 백엔드에 관심 있는 Junior 개발자입니다.
 | 📈 **주식 예측 모델** | 강화학습 기반 주식 예측 및 백테스트 구현 | [GitHub](https://github.com/hyunsu3408/stock_trade) |
 | 🚢 **Kaggle 타이타닉** | 머신러닝 기반 생존자 예측 (상위 5%) | [GitHub](https://github.com/hyunsu3408/kaggle_titanic) |
 | 📞 **전화번호부 웹앱** | Java & SpringBoot 기반 CRUD 웹앱 | [GitHub](https://github.com/hyunsu3408/PhoneBookWepApp) |
-| 🦠 **코로나 생존자 예측 (Mexico)**| [GitHub](https://github.com/hyunsu3408/first-ai) |
+| 🦠 **코로나 생존자 예측 (Mexico)**|멕시코 환자 데이터를 기반으로 한 코로나 생존 여부 예측 모델 [GitHub](https://github.com/hyunsu3408/first-ai) |
+
 📘 **Notion 포트폴리오**: [클릭](https://www.notion.so/1f4f07bf279d80918d01ef6f82496da2)
 
 ---
