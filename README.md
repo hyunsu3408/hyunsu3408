@@ -10,7 +10,7 @@ AI와 백엔드에 관심 있는 Junior 개발자입니다.
 **Languages & Tools**  
 `Python` `Java` `DBeaver` , `SQL`, `Oracle`    
 `TensorFlow` `Scikit-learn` `Pandas` `Matplotlib`  
-`Git` `VSCode` `Linux` `NodeJS`
+`Git` `VSCode` `Linux` `NodeJS` `Express`
 
 ---
 
